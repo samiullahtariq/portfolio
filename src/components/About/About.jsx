@@ -20,27 +20,11 @@ const About = () => {
       <div className="col-md-6">
         <h1 className="a-title">About Me</h1>
         <p className="a-sub">
-          It is a long established fact that a reader will be distracted by the
-          readable content.
+          As a Frontend Developer & SEO Specialist. I offer a unique blend of techical expertise and marketing strategies to help business increase their online visibility and drive revenue.
         </p>
         <p className="a-desc">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+         Whether you need a high-performing React/next.js website or a data-driven SEO strategy. I have the skills and experience to deliver results. Ready to scale your online presence with expert SEO & web solutions? Send me a message and lets discuss your project today!🚀
         </p>
-        <div className="row">
-          <div className="col-lg-3 col-md-2 d-none d-lg-block">
-          <img src="/Images/award.png" alt="" className="img-fluid awardImg" style={{borderRadius : "20px"}} />
-          </div>
-          <div className="col">
-          <h4 className="a-award-title">International Design Awards 2021</h4>
-            <p className="a-award-p">
-              Nemo enim ipsam voluptatem quia voluptas sit aspernatur autodit
-              and fugit.
-            </p>
-          </div>
-        </div>
       </div>
 
       </div>

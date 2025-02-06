@@ -15,14 +15,14 @@ const Home = () => {
                         <div className="i-title">
                                 <div className="i-title-wrapper">
                                 <div className="i-title-item">Web Developer</div>
-                                <div className="i-title-item">UI/UX Designer</div>
+                                <div className="i-title-item">SEO Expert</div>
                                 <div className="i-title-item">Student</div>
                                 <div className="i-title-item">Quick Learner</div>
                                 </div>
                          </div>
                             <p style={{marginTop : "30px" , color :"#5b83f1"}}>
                                 I design and develop services for customers of all sizes,
-                                specializing <br className="d-none d-md-block"/> in creating stylish, modern websites, web services.
+                                specializing <br className="d-none d-md-block"/> in creating stylish, modern websites, web services. and developing & implementing SEO Strategies according to your needs
                             </p>
                       </div>
                     </div>
